@@ -1,10 +1,10 @@
 /* styles.css */
 body {
-    background-image: url('clouds.png'); /* Путь к вашим облакам */
-    background-size: 80%;
-    background-repeat: repeat-x; /* Повторять облака по горизонтали */
+    background-image: url('clouds2.png'); /* Путь к вашим облакам */
+    background-size: 30%;
+    background-repeat: repeat-2x; /* Повторять облака по горизонтали */
     background-position: top center; /* Позиция сверху */
-    background-color: #87CEEB; /* Небесно-голубой цвет фона */
+    background-color: plum; /* Небесно-голубой цвет фона */
     background-attachment: fixed; /* Облака не движутся при скролле */
     font-family: Arial, sans-serif;
     color: white;
