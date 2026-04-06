@@ -1,7 +1,12 @@
 /* styles.css */
 body {
+    background-image: url('clouds.png'); /* Путь к вашим облакам */
+    background-size: 80%;
+    background-repeat: repeat-x; /* Повторять облака по горизонтали */
+    background-position: top center; /* Позиция сверху */
+    background-color: #87CEEB; /* Небесно-голубой цвет фона */
+    background-attachment: fixed; /* Облака не движутся при скролле */
     font-family: Arial, sans-serif;
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
     min-height: 100vh;
     display: flex;
