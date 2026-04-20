@@ -2,6 +2,7 @@ Weather App
 
 Простое и удобное приложение для просмотра погоды в любом городе.  
 Использует публичное API для получения актуальных данных.
+[Демо](https://mcypher-alt.github.io/weather_app/)
 
 Функционал
 
@@ -21,14 +22,23 @@ Weather App
 
 ![Главный экран](screenshots/weather-app.png)
 
+Структура проекта
+
+weather-app/
+├── index.html          # основная страница
+├── styles.css          # стили (обычный CSS)
+├── script.js           # вся логика приложения
+└── README.md           # этот файл
+
 Установка и запуск
 
 ```bash
 # Клонируй репозиторий
-git clone https://github.com/твой-ник/weather-app.git
+git clone https://github.com/mcypher-alt/weather-app.git
 
 # Перейди в папку проекта
 cd weather-app
 
 # Открой index.html в браузере
 # Или используй Live Server в VS Code
+```
