@@ -16,19 +16,20 @@ Weather App
 
 - **JavaScript** (чистый, без фреймворков)
 - **HTML5 / CSS3** (адаптивная вёрстка)
-- **REST API** (OpenWeatherMap / WeatherAPI)
+- **REST API** (OpenWeatherMap)
 
 Скриншоты
 
 ![Главный экран](screenshots/weather-app.png)
 
 Структура проекта
-
+```
 weather-app/
 ├── index.html          # основная страница
 ├── styles.css          # стили (обычный CSS)
 ├── script.js           # вся логика приложения
 └── README.md           # этот файл
+```
 
 Установка и запуск
 
